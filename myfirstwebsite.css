@@ -1,0 +1,26 @@
+h1 {
+  color: white;
+  font-family: Courier, Arial, "Times new Roman"
+  font-style: normal, italic;
+  font-variant: norma, small-caps; 	/*Blockbuchstaben*/
+  font-size: 300%
+
+}
+
+h3 {
+  color: white;
+}
+
+
+table border {
+  color: white;
+}
+
+
+table {
+   color: white;
+}
+
+details {
+   color: white;
+}
